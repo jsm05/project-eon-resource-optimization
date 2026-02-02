@@ -70,5 +70,4 @@ Project eON follows a three-stage, MLOps-inspired pipeline:
 ---
 
 ## Authors
-Jashan Singh Mehta
-Kushagra Agrawal
+Jashan Singh Mehta, Kushagra Agrawal
